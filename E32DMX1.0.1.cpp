@@ -15,9 +15,9 @@
 #define UNIVERSE_COUNT 1
 
 
-const char* ssid = "ASCom";
-const char* password = "02124740388748344710";
-const char* mqtt_server = "10.11.12.20";
+const char* ssid = "SSID";
+const char* password = "WifiPassword";
+const char* mqtt_server = "10.11.12.20";  //IP of mqtt-server
 
 IPAddress staticIP(10, 11, 12, 61); //ESP static ip
 IPAddress gateway(10, 11, 12, 1);   //IP Address of your WiFi Router (Gateway)
