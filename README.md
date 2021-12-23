@@ -56,8 +56,11 @@ Settings for xLights:
 ![xLights screenshot](https://github.com/Bavarialex/ESP32DMX/blob/main/xl01.JPG?raw=true)
 
 Uses RGB-led to display:
+
 Red GPIO05 - Wifi connected
+
 Blue GPIO19 - Mqtt connected
+
 Green GPIO18 - DMX active
 
 
