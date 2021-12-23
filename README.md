@@ -19,11 +19,11 @@ Using following libraries:
 <ArduinoOTA.h>
 
 - OTA updates directly ot of platformIO
-- 
+ 
 <TelnetSpy.h>
 
 - Telnet output instead of serial out. Just connect via telnet and see all your debug info.
-- 
+ 
 <WiFiClient.h>
 
 <AsyncTCP.h>
@@ -33,15 +33,15 @@ Using following libraries:
 <AsyncElegantOTA.h>
 
 - updates possible via http://IPofESP/update
-- 
+ 
 <PubSubClient.h>
 
 - mqtt stuff
-- 
+ 
 <Wire.h>
 
 <ESPAsyncE131.h>
 
 - DMX stuff
-- 
+ 
 
