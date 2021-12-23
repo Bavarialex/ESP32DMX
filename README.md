@@ -45,3 +45,8 @@ Using following libraries:
 - DMX stuff
  
 
+Settings for xLights:
+
+![xLights screenshot](https://github.com/Bavarialex/ESP32DMX/blob/main/xl01.JPG?raw=true)
+
+
