@@ -23,7 +23,7 @@ Using following libraries:
 
 <TelnetSpy.h>
 
-- Telnet output instead of serial out. Just connect via telnet and see all your debug info.
+- Telnet output additional to serial out. Just connect via telnet and see all your debug info.
 
 
 <WiFiClient.h>
