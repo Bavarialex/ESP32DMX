@@ -3,7 +3,7 @@ DMX -> MQTT
 
 Recieve E1.31 DMX from xLights p.ex. and send via mqtt to IOBroker. To have IOBroker change lights due to DMX.
 
-![IOBroker screenshot](https://github.com/Bavarialex/ESP32DMX/blob/main/esp32dmx01.JPG?raw=true)
+![IOBroker screenshot](https://github.com/Bavarialex/ESP32DMX/blob/main/pics/esp32dmx01.JPG?raw=true)
 
 - use with PlatformIO in Visual Studio Code
 - see platformio.ini
@@ -53,7 +53,7 @@ Using following libraries:
 
 Settings for xLights:
 
-![xLights screenshot](https://github.com/Bavarialex/ESP32DMX/blob/main/xl01.JPG?raw=true)
+![xLights screenshot](https://github.com/Bavarialex/ESP32DMX/blob/main/pics/xl01.JPG?raw=true)
 
 Uses RGB-led to display:
 
