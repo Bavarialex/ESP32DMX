@@ -63,4 +63,6 @@ Blue GPIO19 - Mqtt connected
 
 Green GPIO18 - DMX active
 
+![ESP32DMX](https://github.com/Bavarialex/ESP32DMX/blob/main/pics/esp32dmx02.JPG?raw=true)
+
 
