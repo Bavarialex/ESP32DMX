@@ -77,7 +77,7 @@ void callback(char* topic, byte* payload, unsigned int length)
    {
      if (payload[0] == '1')
       {
-        //nix
+        ESP.restart();
       }       
       
       else
