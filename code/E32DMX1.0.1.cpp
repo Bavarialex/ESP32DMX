@@ -12,7 +12,7 @@
 #include <ESPAsyncE131.h>
 
 #define UNIVERSE 1                      // First DMX Universe to listen for
-#define UNIVERSE_COUNT 1
+#define UNIVERSE_COUNT 1                // number of universes
 
 
 const char* ssid = "SSID";
